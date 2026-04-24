@@ -58,6 +58,3 @@ This project presents a comprehensive Sales Performance Dashboard built using Mi
 
 ---
 
-## 👤 Author
-Dipesh Kangra  
-GitHub: https://github.com/dipesh-kang
